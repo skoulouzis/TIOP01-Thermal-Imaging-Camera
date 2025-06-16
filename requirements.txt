@@ -1,0 +1,8 @@
+numpy==2.3.0
+opencv-python==4.11.0.86
+matplotlib==3.10.3
+pillow==11.2.1
+rawpy==0.25.0
+imageio==2.32.0
+pyserial==3.5
+
